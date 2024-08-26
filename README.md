@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameerdevv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul gusain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahulgusain75" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-gusain-064a5b2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahulgusain75" height="30" width="40" /></a>
 <a href="https://instagram.com/_ra_hul__gusain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ra_hul__gusain_" height="30" width="40" /></a>
 </p>
 
